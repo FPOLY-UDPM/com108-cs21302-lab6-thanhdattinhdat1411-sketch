@@ -15,7 +15,7 @@
 
 int main() {
     int n;
-    int arr[100];
+    int arr[n];
     int tong = 0;
     int dem = 0;
     float trungBinh;
